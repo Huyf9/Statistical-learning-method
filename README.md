@@ -1,1 +1,3 @@
-# Statistical-learning-method
+# 统计学习方法算法复现
+### 目前已完成 ###
+** 1.感知机 **
