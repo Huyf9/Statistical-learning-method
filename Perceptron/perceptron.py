@@ -1,5 +1,4 @@
 import numpy as np
-from tqdm import tqdm
 from matplotlib import pyplot as plt
 
 
